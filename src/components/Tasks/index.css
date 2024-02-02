@@ -1,0 +1,25 @@
+.tasklist-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #64748b;
+  margin: 10px;
+  width: 600px;
+}
+
+.taskname-in-list {
+  font-family: 'Roboto';
+  font-size: 22px;
+  color: #ffffff;
+  margin-left: 10px;
+}
+
+.tagname-in-list {
+  background-color: #f3aa4e;
+  color: #000000;
+  font-family: 'Roboto';
+  font-size: 22px;
+  border-radius: 10px;
+  padding: 10px;
+  margin-right: 10px;
+}
